@@ -137,7 +137,7 @@ footer {
 .blinking {
     font-size: 24px;
     font-weight: bold;
-    color:  #ff9800;
+    color:  black;
     animation: blink 1s infinite;
 }
 

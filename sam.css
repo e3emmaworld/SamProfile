@@ -44,7 +44,7 @@ nav ul li a {
 }
 
 .hero {
-    background-image: linear-gradient(rgb(88, 68, 68),pink,rgb(90, 61, 86),rgb(166, 173, 166));
+    background-image: linear-gradient(rgb(88, 68, 68),pink,rgb(22, 185, 30),rgba(31, 134, 91, 0.863));
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -105,9 +105,6 @@ h2 {
     margin-bottom: 20px;
     font-size: 2rem;
     color: black;;
-}
-. .project h3 li  {
-    list-style: armenian;
 }
 
 footer {
